@@ -1,0 +1,28 @@
+Text Samples
+1. Highly Similar Texts
+Text 1: "On a sunny day, people in the park are enjoying the beautiful weather."
+Text 2: "On a bright and sunny day, park-goers are enjoying the lovely weather."
+
+2. Partially Similar Texts
+Text 1: "Machine learning is a method that allows computers to improve themselves through data."
+Text 2: "Deep learning is a type of machine learning that uses neural networks for complex pattern recognition."
+
+3. Not Very Similar Texts
+Text 1: "I like to start my day with a cup of coffee in the morning."
+Text 2: "Tonight, there's an exciting basketball game, and I plan to go watch it."
+
+4. Completely Different Texts
+Text 1: "The sun rises in the east, bringing a new day to us."
+Text 2: "Python is a widely used programming language suitable for various types of application development."
+
+5. Technical Domain Similarity
+Text 1: "Blockchain technology is rapidly growing in its applications within the financial sector."
+Text 2: "Cryptocurrencies and blockchain technology are revolutionizing the way the financial industry operates."
+
+6. News Domain Similarity
+Text 1: "The tech company recently released the latest smartphone model, featuring advanced camera capabilities."
+Text 2: "The newly launched smartphone comes with high-quality camera features and several new functionalities."
+
+7. Literary Similarity
+Text 1: "She stood by the window, watching the raindrops, with endless thoughts swirling in her mind."
+Text 2: "The rain gently tapped on the window, filling her mind with complex emotions."
